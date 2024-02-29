@@ -34,9 +34,11 @@
 </p>
 
 
-![Metrics](https://metrics.lecoq.io/SAJOYPAUL909?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/SAJOYPAUL909?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+
+
 
 <h3 align="left">Snake 🐍 eating my contributions 😲 :</h3>
-![github contribution grid snake animation](https://raw.githubusercontent.com/SAJOYPAUL909/SAJOYPAUL909/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sajoypaul909/sajoypaul909/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 	
