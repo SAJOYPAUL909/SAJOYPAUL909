@@ -25,17 +25,9 @@
   <a herf="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/SAJOYPAUL909/SAJOYPAUL909/assets/94903137/cc853ff4-f35b-47a4-89d4-ba2af6434011" alt="Fastapi" height="40" width="40") </a>
 </p>
 <hr>
-<p>
-<br>  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sajoypaul909&show_icons=true&locale=en" alt="sajoypaul909" />
-<br>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sajoypaul909&" alt="sajoypaul909" />
-<br>
+<p>  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajoypaul909&show_icons=true&locale=en" alt="sajoypaul909" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajoypaul909&" alt="sajoypaul909" />
 </p>
-
-
-![Metrics](https://metrics.lecoq.io/SAJOYPAUL909?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
-
 <h3 align="left">Snake 🐍 eating my contributions 😲 :</h3>
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajoypaul909/sajoypaul909/output/github-contribution-grid-snake-dark.svg">
-	
