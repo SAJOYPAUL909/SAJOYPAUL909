@@ -29,5 +29,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajoypaul909&show_icons=true&locale=en" alt="sajoypaul909" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajoypaul909&" alt="sajoypaul909" />
 </p>
+<hr>
 <h3 align="left">Snake 🐍 eating my contributions 😲 :</h3>
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajoypaul909/sajoypaul909/output/github-contribution-grid-snake-dark.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajoypaul909/sajoypaul909/output/github-contribution-grid-snake.svg">
