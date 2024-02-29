@@ -39,7 +39,5 @@
 
 
 <h3 align="left">Snake 🐍 eating my contributions 😲 :</h3>
-![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/sajoypaul909/sajoypaul909/output/github-contribution-grid-snake-dark.svg)
-
-
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajoypaul909/sajoypaul909/output/github-contribution-grid-snake.svg">
 	
